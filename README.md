@@ -6,7 +6,7 @@ Este es un proyecto en desarrollo construido con **React** que incluye un sistem
 
 ### 1️⃣ Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/LuisDNA1196/Plataformaeducativa.git
 cd tu-repositorio
 ###  2️⃣ Instalar dependencias
 npm install
